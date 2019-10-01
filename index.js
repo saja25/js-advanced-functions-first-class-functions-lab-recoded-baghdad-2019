@@ -1,4 +1,6 @@
 // Code your solution in this file!
 const returnFirstTwoDrivers=(arr)=>{
-  return arr[0],arr[1] ;
+  for(let i=0;i<2;i++){
+    return arr[i] ;
+  }
 }
