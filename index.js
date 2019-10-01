@@ -9,5 +9,5 @@ let selectingDrivers=[returnFirstTwoDrivers,returnLastTwoDrivers] ;
 const createFareMultiplier=function(mult){
  return function(num){ return mult*num ;};
 };
-const createFareMultiplier=createFareMultiplier(2);
+constfareDoubler createFareMultiplier=createFareMultiplier(2);
 const
