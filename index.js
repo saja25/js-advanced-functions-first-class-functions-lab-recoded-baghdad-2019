@@ -10,5 +10,5 @@ const createFareMultiplier=function(mult){
  return function(num){ return mult*num ;};
 };
 const createFareMultiplier=function(fare){
-  return fare*2;
+  return *2;
 }
