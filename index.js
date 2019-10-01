@@ -5,4 +5,4 @@ const returnFirstTwoDrivers=function (arr){
 const returnLastTwoDrivers=function(arr){
   return arr.slice(-2) ;
 }
-let selectingDrivers=[returnFirstTwoDrivers,] 
+let selectingDrivers=[returnFirstTwoDrivers,returnLastTwoDrivers] ;
