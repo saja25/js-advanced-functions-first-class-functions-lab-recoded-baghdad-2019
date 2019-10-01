@@ -10,4 +10,4 @@ const createFareMultiplier=function(mult){
  return function(num){ return mult*num ;};
 };
 const fareDoubler=createFareMultiplier(2);
-const =createFareMultiplier()
+constfareTripler =createFareMultiplier()
